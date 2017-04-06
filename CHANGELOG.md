@@ -13,6 +13,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - Add change log.
 - Add Database.exectute_transaction method which will commit a query immediately
   without returning results.
+  
+### Fixed
+  
+- Removed unnecessary psycopg2 import
 
 ## [0.9.1] - 2017-01-04
 
