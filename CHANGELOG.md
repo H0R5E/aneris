@@ -12,7 +12,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - Add gitignore.
 - Add change log.
 
-## Fixed
+### Fixed
 
 - Removed unnecessary psycopg2 import
 
