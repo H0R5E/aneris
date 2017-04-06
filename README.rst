@@ -1,5 +1,7 @@
 .. This is the README file for aneris. It is automagically imported into the
    Sphinx documentation
+   
+|appveyor| |codecov| `Lintly Score`_ |release|
     
 Aneris is a multi-client data coupling agent written in Python.
 
@@ -12,3 +14,14 @@ Aneris is a multi-client data coupling agent written in Python.
 It was designed to handle the data communication needs for the European 
 Commission FP7 Energy project “Optimal Design Tools for Ocean Arrays”
 (DTOcean).
+
+.. |appveyor| image:: https://ci.appveyor.com/api/projects/status/github/DTOcean/aneris?branch=master&svg=true
+              :target: https://ci.appveyor.com/project/DTOcean/aneris
+              :alt: Appveyor
+.. |codecov| image:: https://codecov.io/gh/DTOcean/aneris/branch/master/graph/badge.svg
+             :target: https://codecov.io/gh/DTOcean/aneris
+             :alt: Codecov
+.. _Lintly Score: https://lintly.com/gh/DTOcean/aneris/
+.. |release| image:: https://img.shields.io/github/release/DTOcean/aneris.svg
+             :target: https://github.com/DTOcean/aneris/releases/latest
+             :alt: release
