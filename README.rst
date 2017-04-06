@@ -15,10 +15,10 @@ It was designed to handle the data communication needs for the European
 Commission FP7 Energy project “Optimal Design Tools for Ocean Arrays”
 (DTOcean).
 
-.. |appveyor| image:: https://ci.appveyor.com/api/projects/status/github/DTOcean/aneris?branch=master&svg=true
+.. |appveyor| image:: https://ci.appveyor.com/api/projects/status/github/DTOcean/aneris?branch=0.9.x&svg=true
               :target: https://ci.appveyor.com/project/DTOcean/aneris
               :alt: Appveyor
-.. |codecov| image:: https://codecov.io/gh/DTOcean/aneris/branch/master/graph/badge.svg
+.. |codecov| image:: https://codecov.io/gh/DTOcean/aneris/branch/0.9.x/graph/badge.svg
              :target: https://codecov.io/gh/DTOcean/aneris
              :alt: Codecov
 .. _Lintly Score: https://lintly.com/gh/DTOcean/aneris/
