@@ -18,7 +18,6 @@ import abc
 import socket
 import contextlib
 
-from psycopg2.extras import DictCursor
 from sqlalchemy import create_engine, MetaData, Table
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker
