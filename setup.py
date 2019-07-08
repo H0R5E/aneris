@@ -73,10 +73,10 @@ class CleanPyc(Command):
                 yield os.path.join(root, fname)
  
 setup(name='aneris',
-      version='0.10.1.dev0',
+      version='0.10.1',
       description='aneris.py: data management, coupling and execution',
       author='Mathew Toppper',
-      author_email='mathew.topper@tecnalia.com',
+      author_email='mathew.topper@dataonlygreater.com',
       license = "MIT",
       packages=find_packages(),
       install_requires=['attrdict',
